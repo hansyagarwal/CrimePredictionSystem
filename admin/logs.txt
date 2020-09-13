@@ -1,0 +1,9 @@
+Pick Pocketing,Mandvi,Afternoon
+Murder,Mandvi,Night
+Chain Snatching,Chhani,Afternoon
+Chain Snatching,Mandvi,Afternoon
+Murder,Mandvi,Night
+Chain Snatching,Chhani,Afternoon
+Eve Teasing,Alkapuri,Evening
+Vehicle Theft,Waghodiya,Afternoon
+Road Raze,Akota,Evening
